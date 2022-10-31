@@ -1,0 +1,9 @@
+export { default as notFoundImage } from "./empty-state.svg";
+export { default as trophyImage } from "./home-trophy.png";
+export { default as socialThinking } from "./social-thinking.svg";
+export { default as facebook } from "./facebook.svg";
+export { default as google } from "./google.svg";
+export { default as bing } from "./bing.png";
+export { default as tiktok } from "./tiktok.png";
+export { default as pinterest } from "./pinterest.png";
+export { default as snapchat } from "./snapchat.png";
