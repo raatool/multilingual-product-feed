@@ -12,7 +12,7 @@
     "node": ">= 12.16"
   },
   "dependencies": {
-    "@gadget-client/tagginator": "^1.36.0",
+    "@gadget-client/multilingual-product-feed": "^1.6.0",
     "@gadgetinc/react": "^0.8.2",
     "@gadgetinc/react-shopify-app-bridge": "^0.4.3",
     "@shopify/app-bridge": "^3.1.0",

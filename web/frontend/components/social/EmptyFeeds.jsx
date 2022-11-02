@@ -19,7 +19,7 @@ export const EmptyFeeds = () => {
             }}
             image={socialThinking}
         >
-            <p>Track and receive your incoming inventory from suppliers.</p>
+            <p>You don't created any feed yet.</p>
 
         </EmptyState>
 
